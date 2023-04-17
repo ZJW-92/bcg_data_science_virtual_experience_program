@@ -1,1 +1,7 @@
-# bcg_data_science_virtual_experience_program
+## BCG Data Science & Analytics Virtual Experience Program
+
+### Task 1 Business Understanding & Hypothesis
+### Task 2 Exploratory Data Analysis
+### Task 3 Feature Engineering & Modelling
+### Task 4 Findings & Recommendations
+
